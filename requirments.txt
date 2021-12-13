@@ -1,0 +1,9 @@
+torch1.2.0
+cuda10.0
+DCNv2
+scikit-image
+opencv-python
+progress
+cython
+pycocotools
+pillow
